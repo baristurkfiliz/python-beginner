@@ -9,4 +9,3 @@ hei = int(input("Height of wall: "))
 wei = int(input("Width of wall: "))
 coverage = 5
 paint_calc(height=hei, width=wei, cover=coverage)
-
